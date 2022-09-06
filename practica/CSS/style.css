@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    background-image: url(https://i.pinimg.com/originals/93/fd/85/93fd85e59b745eaff1643d8aefa60055.jpg);
+    background-image: no-repeat;
+    background-image: fixed;
+    background-image: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+}
+
+.imgRedonda{
+    width: 250px;
+    height: 250px;
+    border-radius: 150px;
+}
